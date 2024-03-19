@@ -1,3 +1,4 @@
+#rock-paper-scissor game
 import random
 def rock_paper_scissor():
     while(True):
