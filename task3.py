@@ -1,3 +1,4 @@
+#atm_stimulator
 import random
 def atm_stimulator():
     balance_amount=random.randint(0,10000)
